@@ -12,4 +12,4 @@ Whenever a user is trying to shutdown the system, a message dialog will pop up a
 
 ## Screenshot
 
-<img src="https://github.com/andywu0913/NoShutDown/blob/master/demo.png" width="400px">
+<img src="https://github.com/andywu0913/NoShutDown/blob/master/demo.png" width="600px">
